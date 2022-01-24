@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT discografica (disco*)>
+<!ELEMENT disco (título,intérpretes,pistas)>
+<!ELEMENT título (#PCDATA)>
+<!ELEMENT intérpretes (intérprete+)>
+<!ELEMENT intérprete (nombre,apellidos,rol)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT rol (#PCDATA)>
+<!ELEMENT pistas (pista+)>
+<!ELEMENT pista (nombre,duración)>
+<!ELEMENT duración (#PCDATA)>

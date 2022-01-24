@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografica SYSTEM "discografica_ext.dtd">
+<discografica>
+    <disco>
+        <título>Rolling Papers</título>
+        <intérpretes>
+            <intérprete>
+                <nombre>Wiz Khalifa</nombre>
+                <apellidos>Jibril Thomaz</apellidos>
+                <rol>Cantante</rol> 
+            </intérprete>
+            <intérprete>
+                <nombre>Too $hort</nombre>
+                <apellidos>Anthony Shaw</apellidos>
+                <rol>Cantante</rol> 
+            </intérprete>
+        </intérpretes>
+        <pistas>
+            <pista>
+                <nombre>Black and Yellow</nombre>
+                <duración>3:02</duración>
+            </pista>
+            <pista>
+                <nombre>On My Level</nombre>
+                <duración>3:36</duración>
+            </pista>
+            <pista>
+                <nombre>No Sleep</nombre>
+                <duración>3:46</duración>
+            </pista>
+        </pistas>
+    </disco>
+    <disco>
+        <título>17</título>
+        <intérpretes>
+            <intérprete>
+                <nombre>XXXTENTACION</nombre>
+                <apellidos>Dwayne Ricardo Onfroy</apellidos>
+                <rol>Cantante</rol> 
+            </intérprete>
+        </intérpretes>
+        <pistas>
+            <pista>
+                <nombre>Jocelyn Flores</nombre>
+                <duración>2:02</duración>
+            </pista>
+            <pista>
+                <nombre>Depression and Obsession</nombre>
+                <duración>2:06</duración>
+            </pista>
+            <pista>
+                <nombre>Revenge</nombre>
+                <duración>1:46</duración>
+            </pista>
+        </pistas>
+    </disco>
+</discografica>
