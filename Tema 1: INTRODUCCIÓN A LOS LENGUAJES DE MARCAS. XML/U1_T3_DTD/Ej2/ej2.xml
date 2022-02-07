@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libro SYSTEM "ej2.dtd">
+<Libro Catalogo="Antiguo Testamento">
+    <Titulo>
+        Mamerto y sus aventuras
+    </Titulo>
+    <Seccion>
+        B12
+    </Seccion>
+    <SubSeccion>
+        B12.1
+    </SubSeccion>
+    <Contenido>
+        <Capitulo materia="XML">
+            <Tema>Aventura</Tema>
+        </Capitulo>
+    </Contenido>
+    <Copyright>
+        Todos los derechos reservados
+    </Copyright>
+</Libro>
