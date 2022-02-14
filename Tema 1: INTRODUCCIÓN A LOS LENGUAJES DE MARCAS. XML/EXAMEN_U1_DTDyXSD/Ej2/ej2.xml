@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "ej2.dtd">
+<libreria catalogo="1">
+    <libro titulo="Mamerto y sus aventuras" editorial="Barco de vapor" autor="Francisco Ibáñez"/>
+    <revista marca="AS">
+        <numero>12</numero>
+        <titular></titular>
+        <editorial>BLAVLA</editorial>
+    </revista>
+    <periodico fecha="22/01/2002" nombre="ABC" />
+</libreria>
