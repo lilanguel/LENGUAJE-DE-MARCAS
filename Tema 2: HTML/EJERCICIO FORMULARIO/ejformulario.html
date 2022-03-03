@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>Prueba de Formulario</legend>
+            <label for="name">Nombre</label>
+            <input type="text" id="name" placeholder="Introduce aquí tu nombre" />
+            <p>
+                <select name="provincias">
+                    <optgroup label="Andalucía">
+                        <option value="S">Sevilla</option>
+                        <option value="C" selected>Cádiz</option>
+                        <option value="J">Jaén</option>
+                        <option value="M">Málaga</option>
+                        <option value="H">Huelva</option>
+                        <option value="A">Almería</option>
+                        <option value="Co">Córdoba</option>
+                        <option value="G">Granada</option>
+                    </optgroup>
+                </select>
+            </p>
+            <p>
+                <textarea rows="20"
+                    cols="20">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti perspiciatis voluptatibus quis molestias dolorum dicta. Repellendus hic magni adipisci? Beatae aliquid exercitationem libero maxime itaque tempora dolorum eos praesentium facere?</textarea>
+            </p>
+            <p>
+                <button type="submit">Aceptar</button>
+            </p>
+            <p>
+                <label name="sexo">Sexo</label>
+                <input type="radio" name="sexo" /> Hombre
+                <input type="radio" name="sexo" /> Mujer
+            </p>
+            <p>
+                <input list="Editores"/>
+                <datalist id="Editores">
+                    <option value="W">Word</option>
+                    <option value="N">Notepad</option>
+                    <option value="Wr">Writer</option>
+                </datalist>
+            </p>
+        </fieldset>
+
+    </form>
+</body>
+
+</html>
