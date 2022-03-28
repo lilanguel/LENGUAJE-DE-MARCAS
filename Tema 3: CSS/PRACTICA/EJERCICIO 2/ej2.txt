@@ -1,0 +1,3 @@
+Porque los dos primeros párrafos tienen un atributo class="verse" y a todos que tengan esto se les aplicará el color de letra elegido y un margen sobre la izquierda de 60px.
+Mientras que los otros, al no tener este atributo, se les aplicará un tamaño de fuente de letra de 12pt y un margen sobre la izquierda de 15px.
+Todo esto de acuerdo a la hoja de estilos que tiene asociada.

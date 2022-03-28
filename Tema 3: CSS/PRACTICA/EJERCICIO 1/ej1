@@ -1,0 +1,9 @@
+1. A todos los body se le aplicará un color de fondo elegido.
+2. A todos los h1 se les aplicará el color de letra elegido y un tamaño de fuente de letra de 20pt.
+3. A todos los hr se les aplicará el color de linea elegido.
+4. A todos los p se les aplicará un tamaño de fuente de letra de 12pt y un margen sobre la izquierda de 15px.
+5. A todos los p que tengan el atributo class="verse" se les aplicará el color de letra elegido y un margen sobre la izquierda de 60px.
+6. A todos los a que tienen un href y no se han visitado se les aplicará el color de letra elegido.
+7. A todos los a que tienen un href y ya se han visitado se les aplicará el color de letra elegido a partir del momento en que se visite.
+8. A todos los a que se le pase por encima el cursor del ratón se les aplicará el color de letra elegido.
+9. A todos los a que se le esté clickando encima de él se les aplicará el color de letra elegido mientras se mantenga pulsado el click.
