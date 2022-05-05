@@ -1,0 +1,113 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+/* Header */
+header {
+    padding-bottom: 0px;
+}
+
+header div,
+header aside {
+    display: inline-block;
+}
+
+#logotipo {
+    height: 100px;
+}
+
+#lupa,
+#china,
+#iran {
+    height: 30px;
+    float: right;
+}
+
+aside {
+    float: right;
+    padding-top: 30px;
+}
+
+/* Barra navegador */
+
+nav {
+    background-color: rgb(240, 87, 112);
+    color: white;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+    width: 15%;
+}
+
+/* Main */
+
+main {
+    padding-top: 5px;
+}
+
+main .contenido,
+main .tweets {
+    display: inline-block;
+}
+
+/* Tweets derecha */
+
+.tweets {
+    float: right;
+    width: 25%;
+}
+
+/* Slider */
+#li1 {
+    width: 98%;
+}
+
+/* Contenido izquierda */
+.contenido {
+    width: 75%;
+    height: 500px;
+}
+
+/* Seccion media */
+.secciones {
+    margin-left: 15%;
+}
+
+.seccion {
+    border: 1px solid rgb(240, 87, 112);
+    border-radius: 10px;
+    font-size: 1.1em;
+    float: left;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 25px;
+    text-align: center;
+    width: 200px;
+    height: 175px;
+}
+
+.seccion img {
+    width: 75%;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(240, 87, 112);
+    text-align: center;
+    height: 55px;
+    color: white;
+}
+
+footer p {
+    padding: 20px;
+}
